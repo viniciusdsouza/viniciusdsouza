@@ -8,7 +8,5 @@
 # 📊 GitHub Stats:
 
 <div  align="center" style="display: flex; flex-direction: row;">
-<img class="img" src="https://github-readme-stats.vercel.app/api?username=viniciusdsouza&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/><br/>
 <img class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=viniciusdsouza&theme=dark&hide_border=false"/><br/>
-<img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusdsouza&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </div>
